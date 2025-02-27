@@ -5,8 +5,8 @@ import sys
 from methods import print_error
 
 
-libname = "EXTENSION-NAME"
-projectdir = "demo"
+libname = "commuterflow"
+projectdir = "commuterflow"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
 
